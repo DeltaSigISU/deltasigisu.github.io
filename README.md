@@ -29,16 +29,16 @@ Activities is Equivalent to Goonies in Reference
 
 I want four pictures of different activities we do and when we click on the picture I want the same pop up as the reference website. Some activities ideas: Formal, Service, Brotherhood, and socials that we don’t have…All images will be in the image tab in github except for formal for now. For the pop up of description we can use ChatGPT idgaf as long as it sounds good. 
 
-Formal
+Formal:
 If anyone has a picture of Spring Formal let me know where I can find it and I will place it in the images tab. 
 
-Service
+Service:
 Iowa Miss Amazing Picture on Instagram 
 
-Brotherhood
+Brotherhood:
 Paintball Picture or Intramural Sport Highlight 
 
-Socials 
+Socials: 
 Fall Serenades Picture on instagram.
 
 
@@ -58,16 +58,16 @@ Committed to Our Motto: Better Men. Better Lives.
 Picture of our Chapter of Distinction awards for 2023
 
 
-Scholarship 
+Scholarship: 
 Highlight our New Member scholarships recently given 
 
-Anti-Hazing
+Anti-Hazing:
 Some PNMs may be nervous that we may haze. Make it a fact we don’t
 
-University-Affiliated Brotherhood
+University-Affiliated Brotherhood:
 Make it known that joining a frat can make a big university small 
 
-Cost
+Cost:
 Highlight our cost and make it known that it is comparable to a residence hall. 
 
 
@@ -75,7 +75,7 @@ Highlight our cost and make it known that it is comparable to a residence hall.
 
 
 
-Contact Us Will be after Membership Section 
+Contact Us Will be after Membership Section: 
 
 This is where I will put my contact info along with Erik as there should be two people they can contact. They should also have a link to our instagram in the bottom right corner where my contact info will also be present. There will also be either a data structure dictionary or an embedded google form for a potential member to contact us. We should also have our house location on this final section. 
 
