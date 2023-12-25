@@ -2,6 +2,9 @@
 A GitHub pages website for Delta Sigma Phi Fraternity at Iowa State University.
 
 
+Google Docs of The Instructions:
+https://docs.google.com/document/d/1gQT7FXHoHART1sMeOd17UhhZUDrvCQnH6gaLFEK1bwg/edit?usp=sharing
+
 The main goal of this project is to market ourselves to potential members and get names. We can do this by highlighting what we do as a chapter. Such an example could be previous pictures of our spring 2023 formal. We can also highlight our brotherhood, philanthropy, and intramural sports. This is to get the end result of getting people to put in their contact information so we can get them over to the house and sign with us. We can either put in a dictionary through python and create our own data structure for contact information or we can embed a google form in the website. Either way works. 
 
 
