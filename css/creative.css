@@ -182,7 +182,7 @@ header .header-content .header-content-inner p {
   margin-bottom: 50px;
 }
 header .header-content .header-content-inner .text-muted {
-  color: #939393;
+  color: #fdfbfb;
 }
 @media (min-width: 768px) {
   header {
